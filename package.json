@@ -1,0 +1,23 @@
+{
+  "name": "hubot-chaucha",
+  "version": "0.0.1",
+  "description": "Obtiene precio del CHA desde una api externa que la toma probablemente desde Orionx.io",
+  "main": "chaucha.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "chaucha",
+    "crypto",
+    "coin",
+    "chile"
+  ],
+  "author": "@juanbrujo",
+  "license": "MIT",
+  "dependencies": {
+    "numbertoclpformater": "^1.0.0"
+  },
+  "devDependencies": {
+    "hippie": "^0.5.1"
+  }
+}
